@@ -52,7 +52,7 @@ const Footer = () => {
 				</div>
 
 				<div className="mt-5 border-t border-gray-700 py-4 text-sm text-center">
-					© {new Date().getFullYear()} React.Website. All rights reserved
+					© {new Date().getFullYear()} React.Website. All rights reserved.
 				</div>
 			</motion.div>
 		</footer>
