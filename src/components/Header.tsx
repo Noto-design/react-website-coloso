@@ -57,7 +57,7 @@ const Header = () => {
 				></span>
 				<span
 					className={`bg-black block h-0.5 w-6 transition-all duration-300 ease-out rounded-sm
-					${isOpen ? "rotate-45 translate-y-1" : "-translate-y-0.5"}`}
+					${isOpen ? "-rotate-45 translate-y-1" : "translate-y-0.5"}`}
 				></span>
 			</button>
 
